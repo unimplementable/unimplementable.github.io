@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Blog Template for GitHub Pages</title>
+    <link>http://spencerlyon2.github.io/hugo_gh_blog/posts/</link>
+    <description>Recent content in Posts on Hugo Blog Template for GitHub Pages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Feb 2016 13:51:32 -0500</lastBuildDate>
+    <atom:link href="http://spencerlyon2.github.io/hugo_gh_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>testpost</title>
+      <link>http://spencerlyon2.github.io/hugo_gh_blog/posts/testpost/</link>
+      <pubDate>Wed, 10 Feb 2016 13:51:32 -0500</pubDate>
+      
+      <guid>http://spencerlyon2.github.io/hugo_gh_blog/posts/testpost/</guid>
+      <description>&lt;p&gt;Here is a test of the new site. I wonder what it will look like and if &lt;code&gt;$x^2$&lt;/code&gt; will display properly. $x^3$&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;what about this?&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;for i in range(100):
+    print i
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
